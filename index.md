@@ -8,6 +8,6 @@
   </head>
                                                                                                
   <body>
-    <p>nitrohaxx developed by lumi (<a href="https://twitter.com/nitrohaxx">Subscribe us on Twitter!</a>) </p>
+    <p>nitrohaxx developed by lumi - <a href="https://twitter.com/nitrohaxx">Subscribe us on Twitter!</a> - </p>
   </body>                                                                    
 </html>           
