@@ -11,3 +11,9 @@
     <p>nitrohaxx developpé par chamette - <a href="https://mega.nz/file/k54EAY4L#_VnNhbBLBN3cEalYREFDUmXy0JCIEldHYGVzbeXRkAc">Suivez-nous sur Twitter. On en a besoin.</a> - (developer's twitter: /chawouy)</p>
   </body>                                                                    
 </html>           
+
+
+
+
+
+cmd code
